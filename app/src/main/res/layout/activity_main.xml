@@ -7,8 +7,7 @@
     android:orientation="vertical"
     android:weightSum="5"
     tools:context=".MainActivity">
-
-<!--    test -->
+    
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
